@@ -12,6 +12,7 @@ Current moderators: @myobie, @chad
 
 | name | message |
 | :--- | :------ |
+| duncan | Building tooling on top of it would be cool... Kinda like blockchain for chat. You’d always have all the history |
 | duncan | I wonder what happens with too many PR's at once |
 | myobie | I had hoped git would see additions and not think we needed to rebase |
 | i0rek | Making everybody admin would certainly help with the speed :D |
