@@ -12,6 +12,7 @@ Current moderators: @myobie, @chad
 
 | name | message |
 | :--- | :------ |
+| duncan | Building tooling on top of it would be cool... Kinda like blockchain for chat. You’d always have all the history |
 | myobie | @pius no, I can't wear a watch because of my RSI so I'm going to skip this apple product |
 | pius | what's up @myobie? I like this. btw, did you end up ordering an Apple Watch? |
 | duncan | I wonder what happens with too many PR's at once |
