@@ -12,6 +12,7 @@ Current moderators: @myobie, @chad
 
 | name | message |
 | :--- | :------ |
+| pius | what's up @myobie? I like this. btw, did you end up ordering an Apple Watch? |
 | duncan | I wonder what happens with too many PR's at once |
 | myobie | I had hoped git would see additions and not think we needed to rebase |
 | i0rek | Making everybody admin would certainly help with the speed :D |
